@@ -28,6 +28,16 @@ I'm a Software Engineering student at Daffodil International University, Banglad
 
 ### 📊 GitHub Statistics
 
+
+<p align="center">
+  <img
+    src="./github-banner.png"
+    alt="Ahsan Adib - Software Engineering Student"
+    width="100%"
+  />
+</p>
+
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=adib-codes&show_icons=true&hide_border=true" alt="GitHub Statistics" />
 </p>
